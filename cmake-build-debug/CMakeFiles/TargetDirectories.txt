@@ -1,0 +1,3 @@
+C:/Users/Administrador/CLionProjects/practica-edya0/cmake-build-debug/CMakeFiles/practica_edya0.dir
+C:/Users/Administrador/CLionProjects/practica-edya0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrador/CLionProjects/practica-edya0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
